@@ -1,2 +1,4 @@
 /.idea/
-/lesson-2-4.iml
+/*.iml
+/out/
+
